@@ -13,12 +13,19 @@ If anyone encounters any bug or issue with this mod, please let me know so I can
 
 ## How to install: 
 Backup Main.ovl from: 
+
 ``- steamapps\common\Planet Zoo\win64\ovldata\Content0``
+
 ``- steamapps\common\Planet Zoo\win64\ovldata\Content1``
+
 ``- steamapps\common\Planet Zoo\win64\ovldata\Content2``
+
 ``- steamapps\common\Planet Zoo\win64\ovldata\Content3``
+
 ``- steamapps\common\Planet Zoo\win64\ovldata\Content4`` 
+
 ``- steamapps\common\Planet Zoo\win64\ovldata\Content6`` 
+
 Depending on whether you want to replace one or more, and place them somewhere you can find them. 
 Unzip the files in this mod and add the ones you wish to their respective "Content" folder, overwriting existing files if prompted. 
 Done! Enjoy! :) 
