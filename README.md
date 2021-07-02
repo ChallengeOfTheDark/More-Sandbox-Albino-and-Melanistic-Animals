@@ -33,7 +33,7 @@ Done! Enjoy! :)
 If you run into any issues or have ideas for improvements, please don't hesitate to let me know. 
 
 **_I update my mods within the first three days of a Planet Zoo update. If that doesn't happen it means I don't have internet and will update as soon as I get it. 
-Please do not update my mods. I will do it myself._** 
+Please do not update my mods. I will do it myself. Do not repost or reupload my mods._** 
 ![Screenshot_8](https://user-images.githubusercontent.com/81271936/124200604-6eb6ca00-dade-11eb-9630-ba7f2bdf7746.png)
 ![Screenshot_15](https://user-images.githubusercontent.com/81271936/124200643-8726e480-dade-11eb-91da-5469a12bedb4.png)
 ![Screenshot_3](https://user-images.githubusercontent.com/81271936/124200623-7d9d7c80-dade-11eb-85cd-54f46b514f9b.png)
