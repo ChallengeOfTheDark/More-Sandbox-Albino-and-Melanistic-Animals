@@ -1,4 +1,4 @@
-# More-Sandbox-Albino-and-Melanistic-Animals
+# More Sandbox Albino and Melanistic Animals
 
 This is a mod for Planet Zoo 1.6.1 which makes it so that out of 4 animals at least 1 will usually be albino or melanistic. It changes the Main.ovl file from Content0 (base game), Content1 (Arctic DLC), Content2 (South America DLC), Content3 (Australia DLC), Content4 (Aquatic DLC), Content6 (Africa DLC) so if you only want to change the albino rate from the base game and not a DLC or vice versa, you can do so. Or you can change it for all of them. Your choice :)
 Some animals will appear more often as albinos than others, though I've set their color morph values to be identical. I may tweak this later on if it will be requested. 
